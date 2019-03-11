@@ -1,3 +1,3 @@
 # electronApp
 
-An Electron desktop app.
+An Electron desktop app to load clients.
